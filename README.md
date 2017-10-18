@@ -1,3 +1,39 @@
 # My Awesome Book
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+
+读书计划：
+
+Android: 
+(1)第一行代码  -->大致浏览了一遍，以后再看
+(2)android群英传
+(3)android架构揭秘
+(4)深入理解android I II III
+(5)Linux设备驱动开发详解
+(6)android内核源代码情景分析  -->重新翻出来看看，比较对胃口，但是细节太深入，看起来累
+(7)android内核剖析
+
+Oracle:
+(1)教你成为oracle10g ocp  -->正在看，讲概念的好书
+(2)oracle 9i/10g编程艺术  -->盛名之下，需要经常翻翻
+(3)性能优化
+
+架构：
+(1)大型网站技术架构  -->看完，经典书，值得经常翻翻
+(2)构建高性能web站点  -->看了一半，技术选型不同，且有点老了，看不下去
+(3)淘宝10年  -->看的电子版，轻松好看
+(4)深入理解java虚拟机  -->看完前6章，经典书，值得经常翻翻
+(5)深入分析java web技术内幕  -->看了几章，觉得很垃圾
+
+大数据：
+(1) hadoop实战
+(2) hadoop权威指南
+
+杂书：
+(1)智能时代  -->看完
+(2)深入理解计算机系统  -->以前已看完
+(3)高性能mysql  -->浏览过一遍
+
+
+
+
+
