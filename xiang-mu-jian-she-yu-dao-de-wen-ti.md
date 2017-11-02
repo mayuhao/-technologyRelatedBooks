@@ -33,5 +33,7 @@
 
 5查找当前最新的改动
 
-1.idea project栏下选择对应文件夹，右键，选择 show changes
+1.idea project栏下选择对应文件夹，
+
+2 vcs菜单，下拉选择 show changes
 
