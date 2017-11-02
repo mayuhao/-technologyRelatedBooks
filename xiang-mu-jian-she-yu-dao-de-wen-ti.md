@@ -31,9 +31,7 @@
 
 5.重启本地tomcat，应该就可以正常测试了
 
-
-
 5查找当前最新的改动
 
-1.idea project栏下选择对应文件，右键，选择 show changes
+1.idea project栏下选择对应文件夹，右键，选择 show changes
 
