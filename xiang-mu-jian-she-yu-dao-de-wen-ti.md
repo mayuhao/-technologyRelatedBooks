@@ -39,3 +39,11 @@
 
 2 vcs菜单，下拉选择 show changes
 
+6 远程连接阿里云
+
+```
+ssh -p 端口号 root@xxxx.xx.xx.x
+```
+
+  Welcome to Alibaba Cloud Elastic Compute Service !
+
