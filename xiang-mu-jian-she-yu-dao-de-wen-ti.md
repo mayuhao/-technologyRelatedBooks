@@ -10,7 +10,7 @@
 
 解决：重新check out 一份新的即可
 
-3 发布代码:   
+3 发布代码:  
 1. 提交代码  
 2. 本地更新svn  
 3. 在trunk 目录下输入命令 mvn clean package  
@@ -30,4 +30,10 @@
 4.将最新的token填入test.jsp,点击要测试的功能，如果session不一致（console里会提示，将其修改为一致）
 
 5.重启本地tomcat，应该就可以正常测试了
+
+
+
+5查找当前最新的改动
+
+1.idea project栏下选择对应文件，右键，选择 show changes
 
