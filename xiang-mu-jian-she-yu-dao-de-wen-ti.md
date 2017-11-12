@@ -6,6 +6,26 @@
 
 （2）查找新的源，修改pom.xml
 
+jar包配置搜索 
+
+官方地址：http://mvnrepository.com/
+
+
+
+&lt;!-- https://mvnrepository.com/artifact/net.oschina.zcx7878/fastdfs-client-java --&gt;
+
+&lt;dependency&gt;
+
+    &lt;groupId&gt;net.oschina.zcx7878&lt;/groupId&gt;
+
+    &lt;artifactId&gt;fastdfs-client-java&lt;/artifactId&gt;
+
+    &lt;version&gt;1.27.0.0&lt;/version&gt;
+
+&lt;/dependency&gt;
+
+
+
 2 idea svn add to cvs报e155007错误
 
 原因：项目非从svn check out得来
