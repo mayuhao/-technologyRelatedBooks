@@ -36,7 +36,7 @@
 五 python+大数据+机器学习：  
 1 python的学习
 2 机器学习实战
-
+。。。
 hadoop权威指南
 hadoop技术内幕
 
