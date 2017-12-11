@@ -16,4 +16,5 @@
 * [构建高性能Web站点](gou-jian-gao-xing-neng-web-zhan-dian.md)
 * [python编程从入门到实践](pythonbian-cheng-cong-ru-men-dao-shi-jian.md)
 * [项目建设遇到的问题](xiang-mu-jian-she-yu-dao-de-wen-ti.md)
+* [搭建android源码学习环境](da-jian-android-yuan-ma-xue-xi-huan-jing.md)
 
