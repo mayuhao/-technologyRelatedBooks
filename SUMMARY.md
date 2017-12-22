@@ -8,9 +8,21 @@
     * [1演化](daxingwangzhanjiagou/gai-shu/1yan-hua.md)
     * [2大型网站架构模式](daxingwangzhanjiagou/gai-shu/2da-xing-wang-zhan-jia-gou-mo-shi.md)
     * [3大型网站核心架构要素](daxingwangzhanjiagou/gai-shu/3da-xing-wang-zhan-he-xin-jia-gou-yao-su.md)
-  * 架构
-  * 案例
-  * 架构师
+  * [架构](daxingwangzhanjiagou/jia-gou.md)
+    * [4高性能](daxingwangzhanjiagou/jia-gou/4gao-xing-neng.md)
+    * [5高可用](daxingwangzhanjiagou/jia-gou/5gao-ke-yong.md)
+    * [6伸缩性](daxingwangzhanjiagou/jia-gou/6shen-suo-xing.md)
+    * 7可扩展性
+    * 8安全架构
+  * [案例](daxingwangzhanjiagou/an-li.md)
+    * 淘宝网
+    * 维基百科
+    * 海量分布式存储系统Doris
+    * 大型网站典型故障分析
+  * [架构师](daxingwangzhanjiagou/jia-gou-shi.md)
+    * 领导艺术
+    * 职场攻略
+    * 漫话网站架构师
 * [智能时代](zhi-neng-shi-dai.md)
 * [深入分析java web技术内幕](shen-ru-fen-xi-java-web-ji-zhu-nei-mu.md)
 * [redis开发与运维](rediskai-fa-yu-yun-wei.md)
