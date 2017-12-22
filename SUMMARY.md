@@ -20,7 +20,7 @@
     * 海量分布式存储系统Doris
     * 大型网站典型故障分析
   * [架构师](daxingwangzhanjiagou/jia-gou-shi.md)
-    * 领导艺术
+    * [领导艺术](daxingwangzhanjiagou/jia-gou-shi/ling-dao-yi-zhu.md)
     * 职场攻略
     * 漫话网站架构师
 * [智能时代](zhi-neng-shi-dai.md)
