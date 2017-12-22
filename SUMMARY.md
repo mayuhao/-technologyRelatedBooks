@@ -32,4 +32,25 @@
 * [python编程从入门到实践](pythonbian-cheng-cong-ru-men-dao-shi-jian.md)
 * [项目建设遇到的问题](xiang-mu-jian-she-yu-dao-de-wen-ti.md)
 * [搭建android源码学习环境](da-jian-android-yuan-ma-xue-xi-huan-jing.md)
+* [分布式服务框架-原理与实践](fen-bu-shi-fu-wu-kuang-67b6-yuan-li-yu-shi-jian.md)
+  * 1应用框架演进
+  * 2分布式服务框架入门
+  * 3通信框架
+  * 4序列化与反序列化
+  * 5协议栈
+  * 6服务路由
+  * 7集群容错
+  * 8服务调用
+  * 9服务注册中心
+  * 10服务发布与引用
+  * 11服务灰度发布
+  * 12参数传递
+  * 13流量控制
+  * 15服务降级
+  * 16服务优先级调度
+  * 17服务治理
+  * 18分布式消息跟踪
+  * 19可靠性设计
+  * 20微服务架构
+  * 21服务化最佳实践
 
