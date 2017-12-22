@@ -6,6 +6,7 @@
 * [大型网站技术架构](daxingwangzhanjiagou.md)
   * [概述](daxingwangzhanjiagou/gai-shu.md)
     * [1演化](daxingwangzhanjiagou/gai-shu/1yan-hua.md)
+    * [2大型网站架构模式](daxingwangzhanjiagou/gai-shu/2da-xing-wang-zhan-jia-gou-mo-shi.md)
   * 架构
   * 案例
   * 架构师
