@@ -2,8 +2,8 @@
 
 * [Introduction](README.md)
 * [Ajax原理与系统开发](ajax-ylyxtkf.md)
-* [深入理解计算机系统](shen-ru-li-jie-ji-suan-ji-xi-tong.md)
-* [大型网站技术架构](daxingwangzhanjiagou.md)
+* [《深入理解计算机系统》](shen-ru-li-jie-ji-suan-ji-xi-tong.md)
+* [《大型网站技术架构》](daxingwangzhanjiagou.md)
   * [概述](daxingwangzhanjiagou/gai-shu.md)
     * [1演化](daxingwangzhanjiagou/gai-shu/1yan-hua.md)
     * [2大型网站架构模式](daxingwangzhanjiagou/gai-shu/2da-xing-wang-zhan-jia-gou-mo-shi.md)
@@ -23,17 +23,17 @@
     * [领导艺术](daxingwangzhanjiagou/jia-gou-shi/ling-dao-yi-zhu.md)
     * 职场攻略
     * 漫话网站架构师
-* [智能时代](zhi-neng-shi-dai.md)
-* [深入分析java web技术内幕](shen-ru-fen-xi-java-web-ji-zhu-nei-mu.md)
-* [redis开发与运维](rediskai-fa-yu-yun-wei.md)
-* [redis设计与实现](redisshe-ji-yu-shi-xian.md)
-* [深入理解java虚拟机](shen-ru-li-jie-java-xu-ni-ji.md)
-* [构建高性能Web站点](gou-jian-gao-xing-neng-web-zhan-dian.md)
-* [python编程从入门到实践](pythonbian-cheng-cong-ru-men-dao-shi-jian.md)
+* [《智能时代》](zhi-neng-shi-dai.md)
+* [《深入分析java web技术内幕》](shen-ru-fen-xi-java-web-ji-zhu-nei-mu.md)
+* [《redis开发与运维》](rediskai-fa-yu-yun-wei.md)
+* [《redis设计与实现》](redisshe-ji-yu-shi-xian.md)
+* [《深入理解java虚拟机》](shen-ru-li-jie-java-xu-ni-ji.md)
+* [《构建高性能Web站点》](gou-jian-gao-xing-neng-web-zhan-dian.md)
+* [《python编程从入门到实践》](pythonbian-cheng-cong-ru-men-dao-shi-jian.md)
 * [项目建设遇到的问题](xiang-mu-jian-she-yu-dao-de-wen-ti.md)
 * [搭建android源码学习环境](da-jian-android-yuan-ma-xue-xi-huan-jing.md)
-* [分布式服务框架-原理与实践](fen-bu-shi-fu-wu-kuang-67b6-yuan-li-yu-shi-jian.md)
-  * 1应用框架演进
+* [《分布式服务框架-原理与实践》](fen-bu-shi-fu-wu-kuang-67b6-yuan-li-yu-shi-jian.md)
+  * [1应用框架演进](fen-bu-shi-fu-wu-kuang-67b6-yuan-li-yu-shi-jian/1ying-yong-kuang-jia-yan-jin.md)
   * 2分布式服务框架入门
   * 3通信框架
   * 4序列化与反序列化
@@ -53,12 +53,12 @@
   * 19可靠性设计
   * 20微服务架构
   * 21服务化最佳实践
-* [ZooKeeper分布式协同技术详解](zookeeperfen-bu-shi-xie-tong-ji-zhu-xiang-jie.md)
+* [《ZooKeeper分布式协同技术详解》](zookeeperfen-bu-shi-xie-tong-ji-zhu-xiang-jie.md)
   * 一Zookeeper的概念和基础
   * 二使用Zookeeper进行开发
   * 三Zookeeper的管理
-* [架构探险-从零开始写java web框架](jia-gou-tan-9669-cong-ling-kai-shi-xie-java-web-kuang-jia.md)
-  * 1从一个简单的web应用开始
+* [《架构探险-从零开始写java web框架》](jia-gou-tan-9669-cong-ling-kai-shi-xie-java-web-kuang-jia.md)
+  * [1从一个简单的web应用开始](jia-gou-tan-9669-cong-ling-kai-shi-xie-java-web-kuang-jia/1cong-yi-ge-jian-dan-de-web-ying-yong-kai-shi.md)
   * 2为web应用添加业务功能
   * 3搭建轻量级java web框架
   * 4使框架具备aop特性
